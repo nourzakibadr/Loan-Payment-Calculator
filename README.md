@@ -1,4 +1,4 @@
-# 💰 Bank Misr – Loan Payment Calculator (Tkinter GUI)
+# 💰 Bank Misr – Loan Payment Calculator (Tkinter GUI Project)
 
 ## 📌 Project Overview
 
